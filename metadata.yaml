@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3026
     wikipedia: http://en.wikipedia.org/wiki/Erasmus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28338#The-Education-of-Children
 gutenberg_issued: '2009-03-16'
 gutenberg_type: Text
 identifiers:
